@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MAX_DIGITS 10
+#define MAX_DIGITS 7
 
 int main() {
     char str[MAX_DIGITS + 1];
